@@ -82,4 +82,7 @@ Projekt koristi `matplotlib` i `seaborn` za:
 - Potrebna je funkcionalna kamera (laptop/web kamera).  
 - Okruženje: Python 3.9+ preporučeno.  
 - Ako koristite Jupyter Notebook, pokrenite sve ćelije redom.  
-- Ako želite prilagoditi broj klasa gesta, uredite varijablu `GESTURE_LABELS`.  
+- Ako želite prilagoditi broj klasa gesta, uredite varijablu `GESTURE_LABELS`. 
+
+## Odricanje od odgovornosti
+Ovaj projekt dostupan je za korištenje u obrazovne i istraživačke svrhe. Autori ne jamče za točnost, potpunost ili ispravnost rada programa te ne snose odgovornost za eventualne pogreške, probleme ili štete koje mogu nastati njegovim korištenjem.
