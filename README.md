@@ -19,8 +19,8 @@ Ovaj sustav omogućuje:
 6. **Thumbs Down** - Palac prema dolje  
 7. **Peace** - Znak mira (V)
 8. **Point** - Pokazivanje
-9. **Fist** - Stisnutu šaku
-10. **Open Hand** - Otvorenu dlan
+9. **Fist** - Stisnuta šaka
+10. **Open Hand** - Otvoren dlan
 
 ## Instalacija
 
@@ -136,7 +136,7 @@ TF_MODEL_PATH = "models/..."  # Putanja za spremanje modela
 
 ## Ograničenja
 
-- Model radi s jednom rukom istovremeno
+- Model radi s jednom rukom 
 - Zahtijeva dobro osvjetljenje za optimalnu detekciju
 - Performanse ovise o kvaliteti prikupljenih podataka
 - Normalizacija koordinata može utjecati na rotacijske varijante istog gesta
@@ -165,4 +165,3 @@ Ovaj projekt koristi otvorene biblioteke:
 
 ---
 
-Za više informacija ili prijavu grešaka, molimo otvorite issue na GitHub repozitoriju.
