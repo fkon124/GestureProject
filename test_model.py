@@ -155,7 +155,7 @@ def quick_check():
 
 if __name__ == "__main__":
     # Pokreni ili quick_check() ili run_realtime_inference()
-    quick_check()
-    # run_realtime_inference()
+    # quick_check()
+    run_realtime_inference()
 
 
